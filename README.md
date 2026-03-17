@@ -55,7 +55,7 @@ Este repositorio puede emplearse para:
 
 ## Autor
 
-**Xavier Escobar Arteus1998**
+**Xavier Escobar Arteus18**
 
 ## Licencia
 
